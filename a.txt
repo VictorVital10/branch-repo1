@@ -2,7 +2,7 @@
 
 Inicialização do novo repositório
 
-design
-design
-design
-design
+main
+main
+main
+main
